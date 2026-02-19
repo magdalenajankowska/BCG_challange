@@ -100,23 +100,6 @@ BCG_challange/
 
 ---
 
-# ⚙️ Installation & Setup
-
-## 1️⃣ Clone the repository
-
-```
-git clone https://github.com/magdalenajankowska/BCG_challange.git
-cd BCG_challange
-```
-
-## 2️⃣3️⃣ Run the notebook
-
-```
-jupyter notebook model2.ipynb
-```
-
----
-
 # 🛠 Technologies Used
 
 * Python 3.11
